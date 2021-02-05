@@ -199,6 +199,10 @@ footer.main_footer a {
   font-weight: bold;
   }
 
+  footer.main_footer ul {
+    font-weight: bold;
+  }
+
 }
 
 
