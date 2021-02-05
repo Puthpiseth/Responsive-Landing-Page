@@ -190,12 +190,13 @@ footer.main_footer a {
 
   aside.main_aside_left, aside.main_aside_right  {
     width: 50%;
-
+    font-weight: bold;
   }
 
   section.main_content {
   width: 100%; 
   border-bottom: 9px solid #7e52a0;
+  font-weight: bold;
   }
 
 }
